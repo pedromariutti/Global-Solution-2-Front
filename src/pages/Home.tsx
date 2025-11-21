@@ -27,7 +27,7 @@ export default function Home() {
         <FeatureCard 
           icon={<Database className="text-primary" size={40} />}
           title="Centralize Tudo"
-          desc="Chega de perder links no WhatsApp. Guarde tudo em um só lugar organizado por categorias."
+          desc="Chega de perder links ou documentos importantes. Guarde tudo em um só lugar organizado por categorias."
         />
         <FeatureCard 
           icon={<Users className="text-secondary" size={40} />}

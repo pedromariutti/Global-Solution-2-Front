@@ -8,8 +8,6 @@ export function Footer() {
         <p className="text-sm">Inovação e Tecnologia para o Futuro do Trabalho.</p>
         <div className="flex justify-center gap-4 mt-4 text-sm">
             <Link to="/faq" className="hover:text-primary">FAQ</Link>
-            <span className="text-slate-600">|</span>
-            <span className="hover:text-primary cursor-pointer">Termos de Uso</span>
         </div>
       </div>
     </footer>
