@@ -1,0 +1,15 @@
+Links Importantes: 
+
+Repositório github java:   https://github.com/pedromariutti/Global-Solution-2-Java
+Repositório github front:  https://github.com/pedromariutti/Global-Solution-2-Front
+
+
+
+
+video demonstração:        https://youtu.be/aoMIAwiSpRo
+
+video pitch:               https://youtu.be/UoC0yw2Kg9o
+
+
+
+link aplicação:           https://global-solution-2-front.vercel.app
