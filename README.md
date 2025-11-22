@@ -98,9 +98,9 @@ knowledge-hub-front/
 
 | Nome | RM | GitHub |
 | :---- | :---- | :---- |
-| **Pedro Mariutti** | RM 75999 | [GitHub](https://github.com/pedromariutti) |
-| **Henrique Orellana** | RM 565608 | [GitHub](https://github.com/Guren156) |
-| **Anabelle Rosseto** | RM 564526 | [GitHub](https://github.com/AnabelleRosseto) |
+| **Pedro Mariutti** | RM 75999 | [GitHub](https://github.com/pedromariutti) | 1TSDR |
+| **Henrique Orellana** | RM 565608 | [GitHub](https://github.com/Guren156) | 1TSDR |
+| **Anabelle Rosseto** | RM 564526 | [GitHub](https://github.com/AnabelleRosseto) | 1TSDR |
 
 ## **📸 Screenshots / Demonstração**
 
